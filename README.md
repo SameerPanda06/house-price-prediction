@@ -4,16 +4,27 @@ A machine learning project that predicts house sale prices using Linear Regressi
 
 ## 📁 Project Structure
 house_price_project/
+
 ├── Data/
+
 │   └── train.csv
+
 ├── models/
+
 │   ├── linear_regression.pkl
+
 │   ├── ridge.pkl
+
 │   └── lasso.pkl
+
 ├── plots/
+
 │   └── correlation_heatmap.png
+
 ├── train.py
+
 ├── app.py
+
 └── README.md
 
 ## 🛠️ Tech Stack
